@@ -1,2 +1,4 @@
 test2 one more
 one more
+
+Added after hard reset
